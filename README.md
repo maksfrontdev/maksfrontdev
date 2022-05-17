@@ -1,4 +1,4 @@
-![Hi there](https://user-images.githubusercontent.com/105711969/168792210-d15240f5-9472-4370-9f0b-7d3ee40e688e.png)
+![You have to be burning with an idea, or a problem, or a wrong that you want to right  If you're not passionate enough from the start, you'll never stick it out](https://user-images.githubusercontent.com/105711969/168799866-e481b731-fd6d-4b5d-ad38-5defbfc343aa.png)
 
 ### Hi there, I'm Maks 👋 
 I'm a frontend and mobile developer who is easy to talk to and easy to work with. 
